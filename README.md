@@ -1,3 +1,1 @@
-###
-
-Linke is: https://programmerowais.github.io/upworkUrgent.github.io/
+### Complex Counter Timing System Frontend UI Code Sample
